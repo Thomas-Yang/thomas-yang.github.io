@@ -1,0 +1,26 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Teaching"
+    url: "/#-teaching"
+
+  - title: "People"
+    url: "/people/"
+
+  - title: "Service"
+    url: "/service/"
+
+  - title: "Software Release"
+    url: https://github.com/buaa-hipo
+
