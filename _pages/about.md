@@ -22,6 +22,7 @@ I served as Guest Editor of the CCF Transactions on High Performance Computing (
 
 
 # 🔥 News
+- 🔥 **July 2022:** The student supercomputing team won the second prize of SolverChallenge22 on July 21th. 
 - 🔥 **July 2022:** Invited to give a talk at HPC Symposium of Open Scientific Computing Consortium on July 9th. 
 - 🔥 **July 2022:** One paper is accepted to **PARCO**. Congratulations to Qingxiao Sun.
 - 🔥 **June 2022:** One paper (CoGNN) is accepted to **SC'22**. Congratulations to Qingxiao Sun.
