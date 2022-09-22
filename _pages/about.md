@@ -30,20 +30,26 @@ I served as Guest Editor of the CCF Transactions on High Performance Computing (
 - 🔥 **June 2022:** One paper (CoGNN) is accepted to **SC'22**. Congratulations to Qingxiao Sun.
 - 🔥 **June 2022:** Two papers (NNLQP and DynVec) are accepted to **ICPP'22**. Congratulations to Xin You and Sensetime co-authors.
 - 🔥 **April 2022:** One paper (TCstencil) is accepted to **ICS'22**. Congratulations to Xiaoyan Liu.
-- 🔥 **November 2021:** Two papers (StencilMART and PowerSpector) are accepted to **IPDPS'22**. Congratulations to Qingxiao Sun and Xin You.
-- 🔥 **October 2021:** Invited to give a talk at High Performance Computer Programming Model and Optimization Symposium of CCF HPCChina on October 23th.
-- 🔥 **October 2021:** Invited to give a talk at High Performance Environment Maintainance and Optimization Symposium of CCF HPCChina on October 22th.  
-- 🔥 **September 2021:** One paper is accepted to **TC**. Congratulations to Qingxiao Sun. 
-- 🔥 **July 2021:** One paper (csTuner) is accepted to **CLUSTER'21**. Congratulations to Qingxiao Sun. 
-- 🔥 **June 2021:** One paper (MSC) is accepted to **ICPP'21**. Congratulations to Mingzhen Li. 
-- 🔥 **April 2021:** One paper (cuTC) is accepted to **ICS'21**. Congratulations to Ming Dun. 
-- 🔥 **February 2021:** Invited to give a keynote speach at the Twelfth International Workshop on Programming Models and Applications for Multicores and Manycores on February 27th.  
+- **November 2021:** Two papers (StencilMART and PowerSpector) are accepted to **IPDPS'22**. Congratulations to Qingxiao Sun and Xin You.
+- **October 2021:** Invited to give a talk at High Performance Computer Programming Model and Optimization Symposium of CCF HPCChina on October 23th.
+- **October 2021:** Invited to give a talk at High Performance Environment Maintainance and Optimization Symposium of CCF HPCChina on October 22th.  
+- **September 2021:** One paper is accepted to **TC**. Congratulations to Qingxiao Sun. 
+- **July 2021:** One paper (csTuner) is accepted to **CLUSTER'21**. Congratulations to Qingxiao Sun. 
+- **June 2021:** One paper (MSC) is accepted to **ICPP'21**. Congratulations to Mingzhen Li. 
+- **April 2021:** One paper (cuTC) is accepted to **ICS'21**. Congratulations to Ming Dun. 
+- **February 2021:** Invited to give a keynote speach at the Twelfth International Workshop on Programming Models and Applications for Multicores and Manycores on February 27th.  
 - **October 2020:** Invited to give a talk at Huawei Computing Technique Symposium of CCF CNCC on October 22th. 
 - **September 2020:** Invited to give a talk at High Performance Sparse Computation Architecture, Algorithm and Application Symposium of CCF HPCChina on September 9th. 
 - **June 2020:** Two papers (SpTFS and Zerospy) are accepted to **SC'20**. Congratulations to Xin You and Qingxiao Sun. 
 
 
 # 📝 Selected Publications
+- 🔥 CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs (**SC**) 2022.
+- 🔥 Vectorizing SpMV by Exploiting Dynamic Regular Patterns (**ICPP**) 2022.
+- 🔥 NNLQP: A Multi-Platform Neural Network Latency Query and Prediction System with An Evolving Database (**ICPP**) 2022.
+- 🔥 [Toward accelerated stencil computation by adapting tensor core unit on GPU](https://dl.acm.org/doi/abs/10.1145/3524059.3532392) (**ICS**) 2022.
+- 🔥 [StencilMART: Predicting Optimization Selection for Stencil Computations across GPUs](https://ieeexplore.ieee.org/document/9820650) (**IPDPS**) 2022.
+- 🔥 [PowerSpector: Towards Energy Efficiency with Calling-Context-Aware Profiling](https://ieeexplore.ieee.org/document/9820673) (**IPDPS**) 2022.
 - [Input-Aware Sparse Tensor Storage Format Selection for Optimizing MTTKRP](https://ieeexplore.ieee.org/abstract/document/9540277) (**TC**) 2021.
 - [The Deep Learning Compiler: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9222299) (**TPDS**) 2021.
 - [Distributed Graph Processing System and Processing-in-memory Architecture with Precise Loop-carried Dependency Guarantee](https://dl.acm.org/doi/abs/10.1145/3453681) (**TOCS**) 2021.
