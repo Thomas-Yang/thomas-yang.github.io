@@ -22,6 +22,7 @@ I served as Guest Editor of the CCF Transactions on High Performance Computing (
 
 
 # 🔥 News
+- 🔥 **December 2022:** One paper (Mimose) is accepted to **IPDPS'23**. Congratulations to Jianjin Liao and Mingzhen Li.
 - 🔥 **December 2022:** One paper (swLego) is accepted to **SCIS**. Congratulations to Mingzhen Li.
 - 🔥 **November 2022:** One paper (swTVM) is accepted to **FCS**. Congratulations to Mingzhen Li.
 - 🔥 **September 2022:** One paper (VClinic) is accepted to **ASPLOS'23**. Congratulations to Xin You.
@@ -47,7 +48,8 @@ I served as Guest Editor of the CCF Transactions on High Performance Computing (
 
 
 # 📝 Selected Publications
-- 🔥 Building Domain-Specific Compiler For Emerging Processor with A Reusable Approach (**SCIS**) 2022.
+- 🔥 Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU (**IPDPS**) 2023.
+- 🔥 Building Domain-Specific Compiler For Emerging Processor with A Reusable Approach (**SCIS**) 2023.
 - 🔥 VClinic: A Portable and Efficient Framework for Fine-grained Value Profilers (**ASPLOS**) 2023.
 - 🔥 Towards Optimized Tensor Code Generation for Deep Learning on Sunway Many-Core Processor (**FCS**) 2022.
 - 🔥 [CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs](https://dl.acm.org/doi/10.5555/3571885.3571936) (**SC**) 2022.
