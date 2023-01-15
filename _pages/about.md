@@ -26,7 +26,6 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 - 🔥 **December 2022:** Invited to give a talk at High Performance Sparse Matrix Computing Architecture, Algorithm and Application Symposium of CCF HPCChina on December 15th.
 - 🔥 **December 2022:** Invited to give a talk at High Performance Computer Programming Model and Optimization Symposium of CCF HPCChina on December 15th.
 - 🔥 **December 2022:** Invited to give a talk at High Performance Computing Middleware Symposium of CCF HPCChina on December 12th.
-- 🔥 **December 2022:** One paper (swLego) is accepted to **SCIS**. Congratulations to Mingzhen Li.
 - 🔥 **November 2022:** One paper (swTVM) is accepted to **FCS**. Congratulations to Mingzhen Li.
 - 🔥 **September 2022:** One paper (VClinic) is accepted to **ASPLOS'23**. Congratulations to Xin You.
 - 🔥 **August 2022:** Invited to give a talk at Sensetime Beijing on August 25th. 
