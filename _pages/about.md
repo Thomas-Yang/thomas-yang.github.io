@@ -52,12 +52,11 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 # 📝 Selected Publications
 - 🔥 Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU (**IPDPS**) 2023.
-- 🔥 Building Domain-Specific Compiler For Emerging Processor with A Reusable Approach (**SCIS**) 2023.
 - 🔥 VClinic: A Portable and Efficient Framework for Fine-grained Value Profilers (**ASPLOS**) 2023.
 - 🔥 Towards Optimized Tensor Code Generation for Deep Learning on Sunway Many-Core Processor (**FCS**) 2022.
 - 🔥 [CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs](https://dl.acm.org/doi/10.5555/3571885.3571936) (**SC**) 2022.
-- 🔥 Vectorizing SpMV by Exploiting Dynamic Regular Patterns (**ICPP**) 2022.
-- 🔥 NNLQP: A Multi-Platform Neural Network Latency Query and Prediction System with An Evolving Database (**ICPP**) 2022.
+- 🔥 [Vectorizing SpMV by Exploiting Dynamic Regular Patterns](https://dl.acm.org/doi/10.1145/3545008.3545042) (**ICPP**) 2022.
+- 🔥 [NNLQP: A Multi-Platform Neural Network Latency Query and Prediction System with An Evolving Database](https://dl.acm.org/doi/10.1145/3545008.3545051) (**ICPP**) 2022.
 - 🔥 [Toward accelerated stencil computation by adapting tensor core unit on GPU](https://dl.acm.org/doi/abs/10.1145/3524059.3532392) (**ICS**) 2022.
 - 🔥 [StencilMART: Predicting Optimization Selection for Stencil Computations across GPUs](https://ieeexplore.ieee.org/document/9820650) (**IPDPS**) 2022.
 - 🔥 [PowerSpector: Towards Energy Efficiency with Calling-Context-Aware Profiling](https://ieeexplore.ieee.org/document/9820673) (**IPDPS**) 2022.
