@@ -22,6 +22,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 
 # 🔥 News
+- 🔥 **March 2023:** One paper (swLego) is accepted to **SCIS**. Congratulations to Mingzhen Li.
 - 🔥 **December 2022:** One paper (Mimose) is accepted to **IPDPS'23**. Congratulations to Jianjin Liao and Mingzhen Li.
 - 🔥 **December 2022:** Invited to give a talk at High Performance Sparse Matrix Computing Architecture, Algorithm and Application Symposium of CCF HPCChina on December 15th.
 - 🔥 **December 2022:** Invited to give a talk at High Performance Computer Programming Model and Optimization Symposium of CCF HPCChina on December 15th.
