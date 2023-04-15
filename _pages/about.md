@@ -22,6 +22,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 
 # 🔥 News
+- 🔥 **April 2023:** One paper (BiRFIA) is accepted to **ICS**. Congratulations to Kelun Lei.
 - 🔥 **March 2023:** One paper (swLego) is accepted to **SCIS**. Congratulations to Mingzhen Li.
 - 🔥 **December 2022:** One paper (Mimose) is accepted to **IPDPS'23**. Congratulations to Jianjin Liao and Mingzhen Li.
 - 🔥 **December 2022:** Invited to give a talk at High Performance Sparse Matrix Computing Architecture, Algorithm and Application Symposium of CCF HPCChina on December 15th.
@@ -51,6 +52,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 
 # 📝 Selected Publications
+- 🔥 BiRFIA: Selective Binary Rewriting for Function Interception on ARM (**ICS**) 2023.
 - 🔥 Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU (**IPDPS**) 2023.
 - 🔥 [VClinic: A Portable and Efficient Framework for Fine-grained Value Profilers](https://dl.acm.org/doi/10.1145/3575693.3576934) (**ASPLOS**) 2023.
 - 🔥 Towards Optimized Tensor Code Generation for Deep Learning on Sunway Many-Core Processor (**FCS**) 2022.
