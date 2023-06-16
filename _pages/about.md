@@ -22,6 +22,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 
 # 🔥 News
+- 🔥 **June 2023:** One paper (FamilySeer) is accepted to **ICPP**. Congratulations to Mingzhen Li.
 - 🔥 **May 2023:** One TC paper is selected as IEEE Computer's **"Spotlight on Transactions"**. Congratulations to Qingxiao Sun.
 - 🔥 **April 2023:** One paper (BiRFIA) is accepted to **ICS**. Congratulations to Kelun Lei.
 - 🔥 **March 2023:** One paper (swLego) is accepted to **SCIS**. Congratulations to Mingzhen Li.
