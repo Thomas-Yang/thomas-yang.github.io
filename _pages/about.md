@@ -18,10 +18,11 @@ redirect_from:
 
 I am an Associate Professor in School of Computer Science and Engineering at Beihang University. I received B.S and Ph.D degrees under supervision of [Prof. Depei Qian](http://scse.buaa.edu.cn/info/1078/8362.htm). I was also a Post-doc researcher in Department of Computer Science and Engineering at University of Michigan. My research interests include high performance computing, performance analysis and optimization, deep learning system and compilation, parallel and distributed computing. My recent research investigates a holistic approach of across-stack optimization for high performance, high scalability and high portability, with special interests in large scale elastic training system, deep learning compilation and auto-tuning techniques, sparse tensor optimization, exascale performance analysis tool and high performance linear algebra for emerging processors. I have authored over 80 scientific publications in the leading international journals and conferences. I received the Excellence Teaching Award from Beihang University in 2016. My research has been funded by NSFC, SenseTime, Alibaba, Huawei, CETC.
 
-I served as Youth Editorial Board of the CCF Transactions on High Performance Computing (CCF THPC). I was the architecture area program co-chair of 23rd IEEE International Conference on Cluster Computing (CLUSTER), 2021. I currently serve as reviewers in the premier journals including TPDS、TC、PARCO、JPDC、FGCS、FCS. I am also the supervisor of Beihang Supercomputing Team, which has won the Silver Prize of ASC'17, Bronze Prize of ISC'17, Highest Linpack Award of ASC'19, Application Innovation Award of ASC'20-21, First Class Award of ASC'14, ASC'15, ASC'16, ASC'18, ASC'19, ASC'20-21, ASC'22. 
+I served as Youth Editorial Board of the CCF Transactions on High Performance Computing (CCF THPC). I was the architecture area program co-chair of 23rd IEEE International Conference on Cluster Computing (CLUSTER), 2021. I currently serve as reviewers in the premier journals including TPDS、TC、PARCO、JPDC、FGCS、FCS. I am also the supervisor of Beihang Supercomputing Team, which has won the Silver Prize of ASC'17, Bronze Prize of ISC'17, Highest Linpack Award of ASC'19, Application Innovation Award of ASC'20-21, First Class Award of ASC'14, ASC'15, ASC'16, ASC'18, ASC'19, ASC'20-21, ASC'22, ASC'23. 
 
 
 # 🔥 News
+- 🔥 **June 2023:** Two papers (EasyScale and TrivialSpy) are accepted to **SC**. Congratulations to Mingzhen Li and Xin You.
 - 🔥 **June 2023:** One paper (FamilySeer) is accepted to **ICPP**. Congratulations to Mingzhen Li.
 - 🔥 **May 2023:** One TC paper is selected as IEEE Computer's **"Spotlight on Transactions"**. Congratulations to Qingxiao Sun.
 - 🔥 **April 2023:** One paper (BiRFIA) is accepted to **ICS**. Congratulations to Kelun Lei.
@@ -54,6 +55,8 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 
 # 📝 Selected Publications
+- 🔥 EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs (**SC**) 2023.
+- 🔥 TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling (**SC**) 2023.
 - 🔥 BiRFIA: Selective Binary Rewriting for Function Interception on ARM (**ICS**) 2023.
 - 🔥 Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU (**IPDPS**) 2023.
 - 🔥 [VClinic: A Portable and Efficient Framework for Fine-grained Value Profilers](https://dl.acm.org/doi/10.1145/3575693.3576934) (**ASPLOS**) 2023.
@@ -82,6 +85,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 - [Bubble-flux: precise online QoS management for increased utilization in warehouse scale computers](https://dl.acm.org/doi/abs/10.1145/2508148.2485974) (**ISCA**) 2013.
 
 # 🎖 Honors and Awards
+- Beihang University May 4th Medal Nomination Award, 2023.
 - CCF HPCChina Workshop Distinguished Speaker 2021.
 - Beihang Young Scholar Award 2021.
 - **Best Paper Award Nomination**, IEEE International Conference on Cluster Computing (CLUSTER), 2021. (2 nominations out of 168 submissions).  
