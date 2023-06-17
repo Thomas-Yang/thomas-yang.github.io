@@ -95,8 +95,8 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 - Beihang University Excellence Teaching Award in 2016.
 
 # 💬 Teaching
-- Methodology of Computer Science Research
-- Cutting-edge Technologies of Open-source Operating System (Collaborated with Huawei)
+- Methodology of Computer Science Research (Undergraduate Student)
+- Cutting-edge Technologies of Open-source Operating System (Graduate Student, Collaborated with Huawei)
 - Parallel Programming (International Student)
 - Computer Achitecture (International Student)
 
