@@ -23,7 +23,7 @@ author_profile: true
 - **PC Member.** IEEE International Conference on Cluster Computing (CLUSTER), 2023
 - **Architecture Area Program Co-Chair.** IEEE International Conference on Cluster Computing (CLUSTER), 2021.
 - **PC Member.** IEEE International Conference on High Performance Computing and Communications (HPCC), 2020, 2021, 2022
-- **PC Member.**Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, 2022
+- **PC Member.** Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, 2022
 - **PC Member.** International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM), 2017, 2018, 2019, 2020, 2021
 
 ## Journal Reviewer
