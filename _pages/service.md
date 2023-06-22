@@ -16,7 +16,6 @@ author_profile: true
 
 ## Editor Board
 - Youth Editor of the CCF Transactions on High Performance Computing (CCF THPC)
-- Guest Editor of the CCF Transactions on High Performance Computing (CCF THPC)
 
 ## Conference Program Committee Member
 - **PC Member.** International Conference on Parallel Processing (ICPP), 2023
