@@ -57,7 +57,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 # 📝 Selected Publications
 - 🔥 EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs (**SC**) 2023.
 - 🔥 TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling (**SC**) 2023.
-- 🔥 BiRFIA: Selective Binary Rewriting for Function Interception on ARM (**ICS**) 2023.
+- 🔥 [BiRFIA: Selective Binary Rewriting for Function Interception on ARM](https://dl.acm.org/doi/10.1145/3577193.3593701) (**ICS**) 2023.
 - 🔥 Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU (**IPDPS**) 2023.
 - 🔥 [VClinic: A Portable and Efficient Framework for Fine-grained Value Profilers](https://dl.acm.org/doi/10.1145/3575693.3576934) (**ASPLOS**) 2023.
 - 🔥 [Towards Optimized Tensor Code Generation for Deep Learning on Sunway Many-Core Processor](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-022-2440-7) (**FCS**) 2022.
