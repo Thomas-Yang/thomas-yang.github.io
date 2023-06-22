@@ -87,7 +87,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 # 🎖 Honors and Awards
 - Beihang University May 4th Medal Nomination Award, 2023.
 - CCF HPCChina Workshop Distinguished Speaker 2021.
-- Beihang Young Scholar Award 2021.
+- Beihang Distinguished Young Scholar Award 2021.
 - **Best Paper Award Nomination**, IEEE International Conference on Cluster Computing (CLUSTER), 2021. (2 nominations out of 168 submissions).  
 - CCF CNCC Workshop Distinguished Speaker 2020. 
 - CCF HPCChina Workshop Distinguished Speaker 2020.
