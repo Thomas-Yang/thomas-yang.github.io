@@ -61,6 +61,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 - 🔥 [BiRFIA: Selective Binary Rewriting for Function Interception on ARM](https://dl.acm.org/doi/10.1145/3577193.3593701) (**ICS**) 2023.
 - 🔥 [Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU](https://ieeexplore.ieee.org/document/10177427) (**IPDPS**) 2023.
 - 🔥 [VClinic: A Portable and Efficient Framework for Fine-grained Value Profilers](https://dl.acm.org/doi/10.1145/3575693.3576934) (**ASPLOS**) 2023.
+- 🔥 [Building a Domain-Specific Compiler for Emerging Processors with a Reusable Approach](https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3727-6) (**SCIS**) 2023.
 - 🔥 [Towards Optimized Tensor Code Generation for Deep Learning on Sunway Many-Core Processor](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-022-2440-7) (**FCS**) 2022.
 - 🔥 [CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs](https://dl.acm.org/doi/10.5555/3571885.3571936) (**SC**) 2022.
 - 🔥 [Vectorizing SpMV by Exploiting Dynamic Regular Patterns](https://dl.acm.org/doi/10.1145/3545008.3545042) (**ICPP**) 2022.
