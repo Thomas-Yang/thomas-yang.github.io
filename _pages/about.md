@@ -22,6 +22,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 
 # 🔥 News
+- 🔥 **October 2023:** One paper (GSTuner) is accepted to **TPDS**. Congratulations to Qingxiao Sun.
 - 🔥 **June 2023:** Two papers (EasyScale and TrivialSpy) are accepted to **SC**. Congratulations to Mingzhen Li and Xin You.
 - 🔥 **June 2023:** One paper (FamilySeer) is accepted to **ICPP**. Congratulations to Mingzhen Li.
 - 🔥 **May 2023:** One TC paper is selected as IEEE Computer's **"Spotlight on Transactions"**. Congratulations to Qingxiao Sun.
@@ -55,6 +56,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 
 # 📝 Selected Publications
+- 🔥 Adaptive Auto-tuning Framework for Global Exploration of Stencil Optimization on GPUs (**TPDS**) 2023.
 - 🔥 EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs (**SC**) 2023.
 - 🔥 TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling (**SC**) 2023.
 - 🔥 Exploiting Subgraph Similarities for Efficient Auto-tuning of Tensor Programs (**ICPP**) 2023.
