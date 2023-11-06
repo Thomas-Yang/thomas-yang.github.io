@@ -57,8 +57,8 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 # 📝 Selected Publications
 - 🔥 Adaptive Auto-tuning Framework for Global Exploration of Stencil Optimization on GPUs (**TPDS**) 2023.
-- 🔥 EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs (**SC**) 2023.
-- 🔥 TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling (**SC**) 2023.
+- 🔥 [EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs](https://dl.acm.org/doi/10.1145/3581784.3607054) (**SC**) 2023.
+- 🔥 [TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling](https://dl.acm.org/doi/10.1145/3581784.3607052) (**SC**) 2023.
 - 🔥 [Exploiting Subgraph Similarities for Efficient Auto-tuning of Tensor Programs](https://dl.acm.org/doi/10.1145/3605573.3605596) (**ICPP**) 2023.
 - 🔥 [BiRFIA: Selective Binary Rewriting for Function Interception on ARM](https://dl.acm.org/doi/10.1145/3577193.3593701) (**ICS**) 2023.
 - 🔥 [Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU](https://ieeexplore.ieee.org/document/10177427) (**IPDPS**) 2023.
