@@ -22,6 +22,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 
 # 🔥 News
+- 🔥 **November 2023:** One paper (Tetris) is accepted to **PPoPP**. Congratulations to Xiaoyan Liu.
 - 🔥 **October 2023:** One paper (GSTuner) is accepted to **TPDS**. Congratulations to Qingxiao Sun.
 - 🔥 **June 2023:** Two papers (EasyScale and TrivialSpy) are accepted to **SC**. Congratulations to Mingzhen Li and Xin You.
 - 🔥 **June 2023:** One paper (FamilySeer) is accepted to **ICPP**. Congratulations to Mingzhen Li.
@@ -56,6 +57,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 
 # 📝 Selected Publications
+- 🔥 Tetris: Accelerating Sparse Convolution by Exploiting Memory  Reuse on GPU (**PPoPP**) 2024.
 - 🔥 Adaptive Auto-tuning Framework for Global Exploration of Stencil Optimization on GPUs (**TPDS**) 2023.
 - 🔥 [EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs](https://dl.acm.org/doi/10.1145/3581784.3607054) (**SC**) 2023.
 - 🔥 [TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling](https://dl.acm.org/doi/10.1145/3581784.3607052) (**SC**) 2023.
