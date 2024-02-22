@@ -57,7 +57,7 @@ I served as Youth Editorial Board of the CCF Transactions on High Performance Co
 
 
 # 📝 Selected Publications
-- 🔥 Tetris: Accelerating Sparse Convolution by Exploiting Memory  Reuse on GPU (**PPoPP**) 2024.
+- 🔥 [Tetris: Accelerating Sparse Convolution by Exploiting Memory  Reuse on GPU](https://dl.acm.org/doi/10.1145/3627535.3638471) (**PPoPP**) 2024.
 - 🔥 [Adaptive Auto-tuning Framework for Global Exploration of Stencil Optimization on GPUs](https://ieeexplore.ieee.org/document/10287597) (**TPDS**) 2023.
 - 🔥 [EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs](https://dl.acm.org/doi/10.1145/3581784.3607054) (**SC**) 2023.
 - 🔥 [TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling](https://dl.acm.org/doi/10.1145/3581784.3607052) (**SC**) 2023.
