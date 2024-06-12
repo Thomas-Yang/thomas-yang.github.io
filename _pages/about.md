@@ -22,6 +22,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 
 # 🔥 News
+- 🔥 **June 2024:** Two papers (PRoof and Jigsaw) are accepted to **ICPP**. Congratulations to Siyu Wu and Kaige Zhang.
 - 🔥 **March 2024:** One paper (AtRec) is accepted to **TPDS**. Congratulations to Siqi Wang and Tianyu Feng.
 - 🔥 **March 2024:** Our paper Tetris is selected as the best paper candidate (three papers in total) in **PPoPP** 2024. Congratulations to Xiaoyan Liu.
 - 🔥 **November 2023:** One paper (Tetris) is accepted to **PPoPP**. Congratulations to Xiaoyan Liu.
@@ -59,7 +60,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 
 # 📝 Selected Publications
-- 🔥 AtRec: Accelerating Recommendation Model Training on CPUs (**TPDS**) 2024.
+- 🔥 [AtRec: Accelerating Recommendation Model Training on CPUs](https://www.computer.org/csdl/journal/td/2024/06/10478579/1VBAwSoxk88) (**TPDS**) 2024.
 - 🔥 [Tetris: Accelerating Sparse Convolution by Exploiting Memory  Reuse on GPU](https://dl.acm.org/doi/10.1145/3627535.3638471) (**PPoPP**, best paper candidate) 2024.
 - 🔥 [Adaptive Auto-tuning Framework for Global Exploration of Stencil Optimization on GPUs](https://ieeexplore.ieee.org/document/10287597) (**TPDS**) 2023.
 - 🔥 [EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs](https://dl.acm.org/doi/10.1145/3581784.3607054) (**SC**) 2023.
