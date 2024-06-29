@@ -111,7 +111,9 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 # 💬 Teaching
 - Methodology of Computer Science Research (Undergraduate Student)
+<!--
 - Cutting-edge Technologies of Open-source Operating System (Graduate Student, Collaborated with Huawei)
+-->
 - Parallel Programming (International Student)
 - Computer Achitecture (International Student)
 
