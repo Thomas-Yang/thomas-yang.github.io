@@ -24,7 +24,7 @@ My research has been funded by NSFC, SenseTime, Alibaba, Huawei, CETC.
 
 I served as the committee member of CCF Doctoral Dissertation Incentive Program, Youth Editorial Board of the CCF Transactions on High Performance Computing (CCF THPC). I was the architecture area program co-chair of 23rd IEEE International Conference on Cluster Computing (CLUSTER), 2021. I currently serve as reviewers in the premier journals including TPDS、TC、PARCO、JPDC、FGCS、FCS. I am also the supervisor of Beihang Supercomputing Team, which has won the Silver Prize of ASC'17, Bronze Prize of ISC'17, Highest Linpack Award, Application Innovation Award and First Class Award of ASC competitions. 
 
-<font color='red'> I am hiring postdoc researchers with an interest in high-performance computing and deep learning systems. Please contact me with your CV. </font>
+<font color='red'><strong> I am hiring postdoc researchers with an interest in high-performance computing and deep learning systems. Please contact me with your CV. </strong></font>
 
 
 # 🔥 News
