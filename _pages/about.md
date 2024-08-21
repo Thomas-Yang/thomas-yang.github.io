@@ -28,11 +28,12 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 
 # 🔥 News
+- 🔥 **August 2024:** One paper (RecServ) is accepted to **TC**. Congratulations to Xin You.
 - 🔥 **June 2024:** Two papers (Moirae and GVARP) are accepted to **SC**. Congratulations to Xiaoyan Liu and Xin You.
 - 🔥 **June 2024:** Two papers (PRoof and Jigsaw) are accepted to **ICPP**. Congratulations to Siyu Wu and Kaige Zhang.
 - 🔥 **March 2024:** One paper (AtRec) is accepted to **TPDS**. Congratulations to Siqi Wang and Tianyu Feng.
 - 🔥 **March 2024:** Our paper Tetris is selected as the best paper candidate (three papers in total) in **PPoPP** 2024. Congratulations to Xiaoyan Liu.
-- 🔥 **November 2023:** One paper (Tetris) is accepted to **PPoPP**. Congratulations to Xiaoyan Liu.
+- 🔥 **November 2023:** One paper (Tetris) is accepted to **PPoPP** (best paper candidate). Congratulations to Xiaoyan Liu.
 - 🔥 **October 2023:** One paper (GSTuner) is accepted to **TPDS**. Congratulations to Qingxiao Sun.
 - 🔥 **June 2023:** Two papers (EasyScale and TrivialSpy) are accepted to **SC**. Congratulations to Mingzhen Li and Xin You.
 - 🔥 **June 2023:** One paper (FamilySeer) is accepted to **ICPP**. Congratulations to Mingzhen Li.
@@ -67,10 +68,11 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 
 # 📝 Selected Publications
+- 🔥 Exploiting Structured Feature and Runtime Isolation for High-Performant Recommendation Serving (**TC**) 2024.
 - 🔥 GVARP: Detecting Performance Variance on Large-Scale Heterogeneous System (**SC**) 2024.
 - 🔥 Moirae: Generating High-Performance Composite Stencil Programs with Global Optimizations (**SC**) 2024.
-- 🔥 PRoof: A Comprehensive Hierarchical Profiling Framework for Deep Neural Networks with Roofline Analysis (**ICPP**) 2024.
-- 🔥 Jigsaw: Accelerating SpMM with Vector Sparsity on Sparse Tensor Core (**ICPP**) 2024.
+- 🔥 [PRoof: A Comprehensive Hierarchical Profiling Framework for Deep Neural Networks with Roofline Analysis](https://dl.acm.org/doi/10.1145/3673038.3673116) (**ICPP**) 2024.
+- 🔥 [Jigsaw: Accelerating SpMM with Vector Sparsity on Sparse Tensor Core](https://dl.acm.org/doi/10.1145/3673038.3673108) (**ICPP**) 2024.
 - 🔥 [AtRec: Accelerating Recommendation Model Training on CPUs](https://www.computer.org/csdl/journal/td/2024/06/10478579/1VBAwSoxk88) (**TPDS**) 2024.
 - 🔥 [Tetris: Accelerating Sparse Convolution by Exploiting Memory  Reuse on GPU](https://dl.acm.org/doi/10.1145/3627535.3638471) (**PPoPP**, best paper candidate) 2024.
 - 🔥 [Adaptive Auto-tuning Framework for Global Exploration of Stencil Optimization on GPUs](https://ieeexplore.ieee.org/document/10287597) (**TPDS**) 2023.
