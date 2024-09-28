@@ -108,6 +108,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - [Bubble-flux: precise online QoS management for increased utilization in warehouse scale computers](https://dl.acm.org/doi/abs/10.1145/2508148.2485974) (**ISCA**) 2013.
 
 # 🎖 Honors and Awards
+- CCF HPC Talent Young Scientist Award, 2024.
 - Beihang University May 4th Medal Nomination Award, 2023.
 - CCF HPCChina Workshop Distinguished Speaker 2021.
 - Beihang Distinguished Young Scholar Award 2021.
