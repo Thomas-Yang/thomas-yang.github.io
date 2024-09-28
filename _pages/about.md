@@ -109,10 +109,11 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 # 🎖 Honors and Awards
 - CCF HPC Talent Young Scientist Award, 2024.
+- **Best Paper Award Nomination**, ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2024. (4 nominations out of 153 submissions)
 - Beihang University May 4th Medal Nomination Award, 2023.
 - CCF HPCChina Workshop Distinguished Speaker 2021.
 - Beihang Distinguished Young Scholar Award 2021.
-- **Best Paper Award Nomination**, IEEE International Conference on Cluster Computing (CLUSTER), 2021. (2 nominations out of 168 submissions).  
+- **Best Paper Award Nomination**, IEEE International Conference on Cluster Computing (CLUSTER), 2021. (2 nominations out of 168 submissions)
 - CCF CNCC Workshop Distinguished Speaker 2020. 
 - CCF HPCChina Workshop Distinguished Speaker 2020.
 - **Best Paper Award**, BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing (Bench), 2020.
