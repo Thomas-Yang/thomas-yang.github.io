@@ -68,7 +68,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 
 # 📝 Selected Publications
-- 🔥 Exploiting Structured Feature and Runtime Isolation for High-Performant Recommendation Serving (**TC**) 2024.
+- 🔥 [Exploiting Structured Feature and Runtime Isolation for High-Performant Recommendation Serving](https://www.computer.org/csdl/journal/tc/5555/01/10654386/1ZMveIE830Q) (**TC**) 2024.
 - 🔥 GVARP: Detecting Performance Variance on Large-Scale Heterogeneous System (**SC**) 2024.
 - 🔥 Moirae: Generating High-Performance Composite Stencil Programs with Global Optimizations (**SC**) 2024.
 - 🔥 [PRoof: A Comprehensive Hierarchical Profiling Framework for Deep Neural Networks with Roofline Analysis](https://dl.acm.org/doi/10.1145/3673038.3673116) (**ICPP**) 2024.
