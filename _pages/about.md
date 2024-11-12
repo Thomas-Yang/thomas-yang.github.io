@@ -70,8 +70,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 # 📝 Selected Publications
 - 🔥 [Exploiting Structured Feature and Runtime Isolation for High-Performant Recommendation Serving](https://www.computer.org/csdl/journal/tc/5555/01/10654386/1ZMveIE830Q) (**TC**) 2024.
-- 🔥 GVARP: Detecting Performance Variance on Large-Scale Heterogeneous System (**SC**) 2024.
-- 🔥 Moirae: Generating High-Performance Composite Stencil Programs with Global Optimizations (**SC**) 2024.
+- 🔥 [GVARP: Detecting Performance Variance on Large-Scale Heterogeneous System](https://www.computer.org/csdl/proceedings-article/sc/2024/529100a900/21HUW5qgq6A) (**SC**) 2024.
+- 🔥 [Moirae: Generating High-Performance Composite Stencil Programs with Global Optimizations](https://www.computer.org/csdl/proceedings-article/sc/2024/529100a277/21HUViT8McE) (**SC**) 2024.
 - 🔥 [PRoof: A Comprehensive Hierarchical Profiling Framework for Deep Neural Networks with Roofline Analysis](https://dl.acm.org/doi/10.1145/3673038.3673116) (**ICPP**) 2024.
 - 🔥 [Jigsaw: Accelerating SpMM with Vector Sparsity on Sparse Tensor Core](https://dl.acm.org/doi/10.1145/3673038.3673108) (**ICPP**) 2024.
 - 🔥 [AtRec: Accelerating Recommendation Model Training on CPUs](https://www.computer.org/csdl/journal/td/2024/06/10478579/1VBAwSoxk88) (**TPDS**) 2024.
