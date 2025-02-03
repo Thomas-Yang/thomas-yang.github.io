@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **February 2025:** One paper (DynVec) is accepted to **TACO**. Congratulations to Kelun Lei and Shaokang Du.
 - 🔥 **August 2024:** One paper (RecServ) is accepted to **TC**. Congratulations to Xin You.
 - 🔥 **June 2024:** Two papers (Moirae and GVARP) are accepted to **SC**. Congratulations to Xiaoyan Liu and Xin You.
 - 🔥 **June 2024:** Two papers (PRoof and Jigsaw) are accepted to **ICPP**. Congratulations to Siyu Wu and Kaige Zhang.
@@ -69,6 +70,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 
 # 📝 Selected Publications
+- 🔥 Exploiting Dynamic Regular Patterns in Irregular Programs for Efficient Vectorization (**TACO**) 2025.
 - 🔥 [Exploiting Structured Feature and Runtime Isolation for High-Performant Recommendation Serving](https://www.computer.org/csdl/journal/tc/5555/01/10654386/1ZMveIE830Q) (**TC**) 2024.
 - 🔥 [GVARP: Detecting Performance Variance on Large-Scale Heterogeneous System](https://www.computer.org/csdl/proceedings-article/sc/2024/529100a900/21HUW5qgq6A) (**SC**) 2024.
 - 🔥 [Moirae: Generating High-Performance Composite Stencil Programs with Global Optimizations](https://www.computer.org/csdl/proceedings-article/sc/2024/529100a277/21HUViT8McE) (**SC**) 2024.
