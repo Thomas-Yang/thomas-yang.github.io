@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **February 2025:** One paper (SimTrace) is accepted to **TACO**. Congratulations to Zhibo Xuan.
 - 🔥 **February 2025:** One paper (GNNPerf) is accepted to **IPDPS**. Congratulations to Kejie Ma.
 - 🔥 **February 2025:** One paper (LightLLM) is accepted to **ASPLOS**. Congratulations to Siyu Wu.
 - 🔥 **February 2025:** One paper (DynVec) is accepted to **TACO**. Congratulations to Kelun Lei and Shaokang Du.
@@ -72,6 +73,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 
 # 📝 Selected Publications
+- 🔥 SimTrace: Exploiting Spatial and Temporal Sampling for Large-Scale Performance Analysis (**TACO**) 2025.
 - 🔥 GNNPerf: Towards Effective Performance Profiling and Analysis across GNN Frameworks (**IPDPS**) 2025.
 - 🔥 Past-Future Scheduler for LLM Serving under SLA Guarantees (**ASPLOS**) 2025.
 - 🔥 Exploiting Dynamic Regular Patterns in Irregular Programs for Efficient Vectorization (**TACO**) 2025.
