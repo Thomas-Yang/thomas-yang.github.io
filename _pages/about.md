@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **March 2025:** Two papers (Plasticine and AOStencil) are accepted to **ICS**. Congratulations to Siqi Wang and Shanghao Liu.
 - 🔥 **February 2025:** One paper (SimTrace) is accepted to **TACO**. Congratulations to Zhibo Xuan.
 - 🔥 **February 2025:** One paper (GNNPerf) is accepted to **IPDPS**. Congratulations to Kejie Ma.
 - 🔥 **February 2025:** One paper (LightLLM) is accepted to **ASPLOS**. Congratulations to Siyu Wu.
@@ -73,6 +74,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 
 # 📝 Selected Publications
+- 🔥 Efficient Locality-aware Instruction Stream Scheduling for Stencil Computation on ARM Processors (**ICS**) 2025.
+- 🔥 Accelerating Complex Stencil Computations with Adaptive Fusion Strategy (**ICS**) 2025.
 - 🔥 [SimTrace: Exploiting Spatial and Temporal Sampling for Large-Scale Performance Analysis](https://dl.acm.org/doi/10.1145/3720544) (**TACO**) 2025.
 - 🔥 GNNPerf: Towards Effective Performance Profiling and Analysis across GNN Frameworks (**IPDPS**) 2025.
 - 🔥 Past-Future Scheduler for LLM Serving under SLA Guarantees (**ASPLOS**) 2025.
