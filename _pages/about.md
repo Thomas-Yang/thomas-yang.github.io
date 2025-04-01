@@ -78,7 +78,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - 🔥 Accelerating Complex Stencil Computations with Adaptive Fusion Strategy (**ICS**) 2025.
 - 🔥 [SimTrace: Exploiting Spatial and Temporal Sampling for Large-Scale Performance Analysis](https://dl.acm.org/doi/10.1145/3720544) (**TACO**) 2025.
 - 🔥 GNNPerf: Towards Effective Performance Profiling and Analysis across GNN Frameworks (**IPDPS**) 2025.
-- 🔥 Past-Future Scheduler for LLM Serving under SLA Guarantees (**ASPLOS**) 2025.
+- 🔥 [Past-Future Scheduler for LLM Serving under SLA Guarantees](https://dl.acm.org/doi/10.1145/3676641.3716011) (**ASPLOS**) 2025.
 - 🔥 [Exploiting Dynamic Regular Patterns in Irregular Programs for Efficient Vectorization](https://dl.acm.org/doi/10.1145/3716874) (**TACO**) 2025.
 - 🔥 [Exploiting Structured Feature and Runtime Isolation for High-Performant Recommendation Serving](https://www.computer.org/csdl/journal/tc/5555/01/10654386/1ZMveIE830Q) (**TC**) 2024.
 - 🔥 [GVARP: Detecting Performance Variance on Large-Scale Heterogeneous System](https://www.computer.org/csdl/proceedings-article/sc/2024/529100a900/21HUW5qgq6A) (**SC**) 2024.
