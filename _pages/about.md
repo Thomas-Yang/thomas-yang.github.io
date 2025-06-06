@@ -75,7 +75,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 
 # 📝 Selected Publications
-- 🔥 Identifying Performance Inefficiencies of Parallel Program with Spatial and Temporal Trace Analysis (**TPDS**) 2025.
+- 🔥 [Identifying Performance Inefficiencies of Parallel Program with Spatial and Temporal Trace Analysis](https://ieeexplore.ieee.org/document/10982439) (**TPDS**) 2025.
 - 🔥 Efficient Locality-aware Instruction Stream Scheduling for Stencil Computation on ARM Processors (**ICS**) 2025.
 - 🔥 Accelerating Complex Stencil Computations with Adaptive Fusion Strategy (**ICS**) 2025.
 - 🔥 [SimTrace: Exploiting Spatial and Temporal Sampling for Large-Scale Performance Analysis](https://dl.acm.org/doi/10.1145/3720544) (**TACO**) 2025.
