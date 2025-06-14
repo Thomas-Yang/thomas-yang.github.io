@@ -48,6 +48,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - 🔥 **May 2023:** One TC paper is selected as IEEE Computer's **"Spotlight on Transactions"**. Congratulations to Qingxiao Sun.
 - 🔥 **April 2023:** One paper (BiRFIA) is accepted to **ICS**. Congratulations to Kelun Lei.
 - 🔥 **March 2023:** One paper (swLego) is accepted to **SCIS**. Congratulations to Mingzhen Li.
+
+<!--
 - 🔥 **December 2022:** One paper (Mimose) is accepted to **IPDPS'23**. Congratulations to Jianjin Liao and Mingzhen Li.
 - 🔥 **December 2022:** Invited to give a talk at High Performance Sparse Matrix Computing Architecture, Algorithm and Application Symposium of CCF HPCChina on December 15th.
 - 🔥 **December 2022:** Invited to give a talk at High Performance Computer Programming Model and Optimization Symposium of CCF HPCChina on December 15th.
@@ -73,7 +75,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - **October 2020:** Invited to give a talk at Huawei Computing Technique Symposium of CCF CNCC on October 22th. 
 - **September 2020:** Invited to give a talk at High Performance Sparse Computation Architecture, Algorithm and Application Symposium of CCF HPCChina on September 9th. 
 - **June 2020:** Two papers (SpTFS and Zerospy) are accepted to **SC'20**. Congratulations to Xin You and Qingxiao Sun. 
-
+-->
 
 # 📝 Selected Publications
 - 🔥 OVERT: Orchestrating Vector-Scalar Execution for Efficient SpMV on Modern CPUs (**ICPP**) 2025.
