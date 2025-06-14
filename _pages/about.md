@@ -29,7 +29,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
-- 🔥 **April 2025:** One paper (STAD) are accepted to **TPDS**. 
+- 🔥 **June 2025:** Two papers (ESC and OVERT) are accepted to **ICPP**. Congratulations to Kelun Lei and Xuezhu Wang.
+- 🔥 **April 2025:** One paper (STAD) is accepted to **TPDS**. Congratulations to Zhibo Xuan.
 - 🔥 **March 2025:** Two papers (Plasticine and AOStencil) are accepted to **ICS**. Congratulations to Siqi Wang and Shanghao Liu.
 - 🔥 **February 2025:** One paper (SimTrace) is accepted to **TACO**. Congratulations to Zhibo Xuan.
 - 🔥 **February 2025:** One paper (GNNPerf) is accepted to **IPDPS**. Congratulations to Kejie Ma.
@@ -75,6 +76,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 
 # 📝 Selected Publications
+- 🔥 OVERT: Orchestrating Vector-Scalar Execution for Efficient SpMV on Modern CPUs (**ICPP**) 2025.
+- 🔥 ESC: Effective Submanifold Convolution using Tensor Cores (**ICPP**) 2025.
 - 🔥 [Identifying Performance Inefficiencies of Parallel Program with Spatial and Temporal Trace Analysis](https://ieeexplore.ieee.org/document/10982439) (**TPDS**) 2025.
 - 🔥 Efficient Locality-aware Instruction Stream Scheduling for Stencil Computation on ARM Processors (**ICS**) 2025.
 - 🔥 Accelerating Complex Stencil Computations with Adaptive Fusion Strategy (**ICS**) 2025.
