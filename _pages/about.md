@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **June 2025:** Two papers (Smurfs and ZeroSpec) are accepted to **SC**. Congratulations to Siqi Wang and Shaokang Du.
 - 🔥 **June 2025:** Two papers (ESC and OVERT) are accepted to **ICPP**. Congratulations to Kelun Lei and Xuezhu Wang.
 - 🔥 **April 2025:** One paper (STAD) is accepted to **TPDS**. Congratulations to Zhibo Xuan.
 - 🔥 **March 2025:** Two papers (Plasticine and AOStencil) are accepted to **ICS**. Congratulations to Siqi Wang and Shanghao Liu.
@@ -78,6 +79,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 📝 Selected Publications
+- 🔥 Towards Efficient LLM Inference via Collective and Adaptive Speculative Decoding (**SC**) 2025.
+- 🔥 Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis (**SC**) 2025.
 - 🔥 OVERT: Orchestrating Vector-Scalar Execution for Efficient SpMV on Modern CPUs (**ICPP**) 2025.
 - 🔥 ESC: Effective Submanifold Convolution using Tensor Cores (**ICPP**) 2025.
 - 🔥 [Identifying Performance Inefficiencies of Parallel Program with Spatial and Temporal Trace Analysis](https://ieeexplore.ieee.org/document/10982439) (**TPDS**) 2025.
