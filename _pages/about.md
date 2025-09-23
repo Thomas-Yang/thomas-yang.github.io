@@ -84,10 +84,10 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - 🔥 OVERT: Orchestrating Vector-Scalar Execution for Efficient SpMV on Modern CPUs (**ICPP**) 2025.
 - 🔥 ESC: Effective Submanifold Convolution using Tensor Cores (**ICPP**) 2025.
 - 🔥 [Identifying Performance Inefficiencies of Parallel Program with Spatial and Temporal Trace Analysis](https://ieeexplore.ieee.org/document/10982439) (**TPDS**) 2025.
-- 🔥 Efficient Locality-aware Instruction Stream Scheduling for Stencil Computation on ARM Processors (**ICS**) 2025.
-- 🔥 Accelerating Complex Stencil Computations with Adaptive Fusion Strategy (**ICS**) 2025.
+- 🔥 [Efficient Locality-aware Instruction Stream Scheduling for Stencil Computation on ARM Processors](https://dl.acm.org/doi/10.1145/3721145.3725760) (**ICS**) 2025.
+- 🔥 [Accelerating Complex Stencil Computations with Adaptive Fusion Strategy](https://dl.acm.org/doi/10.1145/3721145.3725768) (**ICS**) 2025.
 - 🔥 [SimTrace: Exploiting Spatial and Temporal Sampling for Large-Scale Performance Analysis](https://dl.acm.org/doi/10.1145/3720544) (**TACO**) 2025.
-- 🔥 GNNPerf: Towards Effective Performance Profiling and Analysis across GNN Frameworks (**IPDPS**) 2025.
+- 🔥 [GNNPerf: Towards Effective Performance Profiling and Analysis across GNN Frameworks](https://ieeexplore.ieee.org/document/11078549) (**IPDPS**) 2025.
 - 🔥 [Past-Future Scheduler for LLM Serving under SLA Guarantees](https://dl.acm.org/doi/10.1145/3676641.3716011) (**ASPLOS**) 2025.
 - 🔥 [Exploiting Dynamic Regular Patterns in Irregular Programs for Efficient Vectorization](https://dl.acm.org/doi/10.1145/3716874) (**TACO**) 2025.
 - 🔥 [Exploiting Structured Feature and Runtime Isolation for High-Performant Recommendation Serving](https://www.computer.org/csdl/journal/tc/5555/01/10654386/1ZMveIE830Q) (**TC**) 2024.
