@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **November 2025:** Four papers (ElasGNN, Drawloom, APERTURE and SOFT) are accepted to **PPoPP**. Congratulations to Siqi Wang, Yiqing Wang, Kaige Zhang and Qingxiao Sun.
 - 🔥 **June 2025:** Two papers (Smurfs and ZeroSpec) are accepted to **SC**. Congratulations to Siqi Wang and Shaokang Du.
 - 🔥 **June 2025:** Two papers (ESC and OVERT) are accepted to **ICPP**. Congratulations to Kelun Lei and Xuezhu Wang.
 - 🔥 **April 2025:** One paper (STAD) is accepted to **TPDS**. Congratulations to Zhibo Xuan.
@@ -79,6 +80,10 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 📝 Selected Publications
+- 🔥 ElasGNN: An Elastic Training Framework for Distributed GNN Training (**PPoPP**) 2026.
+- 🔥 Exploiting Efficient Mapping and Pipelined Execution for Accelerating SpMV on Tensor Cores (**PPoPP**) 2026.
+- 🔥 APERTURE: Algorithm-System Co-Optimization for Temporal Graph Network Inference (**PPoPP**) 2026.
+- 🔥 Accelerating Sparse Transformer Inference on GPU (**PPoPP**) 2026.
 - 🔥 Towards Efficient LLM Inference via Collective and Adaptive Speculative Decoding (**SC**) 2025.
 - 🔥 Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis (**SC**) 2025.
 - 🔥 OVERT: Orchestrating Vector-Scalar Execution for Efficient SpMV on Modern CPUs (**ICPP**) 2025.
