@@ -84,8 +84,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - 🔥 Exploiting Efficient Mapping and Pipelined Execution for Accelerating SpMV on Tensor Cores (**PPoPP**) 2026.
 - 🔥 APERTURE: Algorithm-System Co-Optimization for Temporal Graph Network Inference (**PPoPP**) 2026.
 - 🔥 Accelerating Sparse Transformer Inference on GPU (**PPoPP**) 2026.
-- 🔥 Towards Efficient LLM Inference via Collective and Adaptive Speculative Decoding (**SC**) 2025.
-- 🔥 Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis (**SC**) 2025.
+- 🔥 [Towards Efficient LLM Inference via Collective and Adaptive Speculative Decoding](https://dl.acm.org/doi/10.1145/3712285.3759834) (**SC**) 2025.
+- 🔥 [Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis](https://dl.acm.org/doi/10.1145/3712285.3759840) (**SC**) 2025.
 - 🔥 OVERT: Orchestrating Vector-Scalar Execution for Efficient SpMV on Modern CPUs (**ICPP**) 2025.
 - 🔥 ESC: Effective Submanifold Convolution using Tensor Cores (**ICPP**) 2025.
 - 🔥 [Identifying Performance Inefficiencies of Parallel Program with Spatial and Temporal Trace Analysis](https://ieeexplore.ieee.org/document/10982439) (**TPDS**) 2025.
