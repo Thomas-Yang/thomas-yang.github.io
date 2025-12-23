@@ -88,8 +88,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - 🔥 Accelerating Sparse Transformer Inference on GPU (**PPoPP**) 2026.
 - 🔥 [Towards Efficient LLM Inference via Collective and Adaptive Speculative Decoding](https://dl.acm.org/doi/10.1145/3712285.3759834) (**SC**) 2025.
 - 🔥 [Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis](https://dl.acm.org/doi/10.1145/3712285.3759840) (**SC**) 2025.
-- 🔥 OVERT: Orchestrating Vector-Scalar Execution for Efficient SpMV on Modern CPUs (**ICPP**) 2025.
-- 🔥 ESC: Effective Submanifold Convolution using Tensor Cores (**ICPP**) 2025.
+- 🔥 [OVERT: Orchestrating Vector-Scalar Execution for Efficient SpMV on Modern CPUs](https://dl.acm.org/doi/10.1145/3754598.3754632) (**ICPP**) 2025.
+- 🔥 [ESC: Effective Submanifold Convolution using Tensor Cores](https://dl.acm.org/doi/10.1145/3754598.3754633) (**ICPP**) 2025.
 - 🔥 [Identifying Performance Inefficiencies of Parallel Program with Spatial and Temporal Trace Analysis](https://ieeexplore.ieee.org/document/10982439) (**TPDS**) 2025.
 - 🔥 [Efficient Locality-aware Instruction Stream Scheduling for Stencil Computation on ARM Processors](https://dl.acm.org/doi/10.1145/3721145.3725760) (**ICS**) 2025.
 - 🔥 [Accelerating Complex Stencil Computations with Adaptive Fusion Strategy](https://dl.acm.org/doi/10.1145/3721145.3725768) (**ICS**) 2025.
