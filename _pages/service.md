@@ -7,12 +7,12 @@ author_profile: true
 ## Student Competition
 - **ASC Student Supercomputer Challenge.** Silver Prize, ASC'17
 - **ASC Student Supercomputer Challenge.** Highest Linpack Award, ASC'19
-- **ASC Student Supercomputer Challenge.** Application Innovation Award, ASC'16, ASC'20-21, ASC'23
-- **ASC Student Supercomputer Challenge.** First Class Award, ASC'14, ASC'15, ASC'16, ASC'18, ASC'19, ASC'20-21, ASC'23
+- **ASC Student Supercomputer Challenge.** Application Innovation Award, ASC'16, ASC'20-21, ASC'23, ASC'24
+- **ASC Student Supercomputer Challenge.** First Class Award, ASC'14, ASC'15, ASC'16, ASC'18, ASC'19, ASC'20-21, ASC'23, ASC'24, ASC'25
 - **ISC Student Cluster Competition.** Bronze Prize, ISC'17
 - **Sunway CUP China Parallel Application Challenge on Domestic CPU.** Third Class Award, CPC'21
-- **The Intel CUP Parallel Application Challenge-PAC.** Third Class Award, PAC'20, PAC'21
-- **Linear Solver Algorithm and Performance Optimization Competition.** Second Class Award, Solver'22
+- **The Intel CUP Parallel Application Challenge-PAC.** Third Class Award (PAC'20, PAC'21), Second Class Award (PAC'25)
+- **Linear Solver Algorithm and Performance Optimization Competition.** Second Class Award (Solver'22), Third Class Award (Solver'23)
 
 ## Editor Board
 - Youth Editor of the CCF Transactions on High Performance Computing (CCF THPC)
