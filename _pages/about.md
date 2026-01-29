@@ -85,9 +85,6 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - 🔥 [ElasGNN: An Elastic Training Framework for Distributed GNN Training](https://dl.acm.org/doi/10.1145/3774934.3786440) (**PPoPP**) 2026.
 - 🔥 [Exploiting Efficient Mapping and Pipelined Execution for Accelerating SpMV on Tensor Cores](https://dl.acm.org/doi/10.1145/3774934.3786441) (**PPoPP**) 2026.
 - 🔥 [APERTURE: Algorithm-System Co-Optimization for Temporal Graph Network Inference](https://dl.acm.org/doi/10.1145/3774934.3786450) (**PPoPP**) 2026.
-<!--
-- 🔥 Accelerating Sparse Transformer Inference on GPU (**PPoPP**) 2026.
--->
 - 🔥 [Towards Efficient LLM Inference via Collective and Adaptive Speculative Decoding](https://dl.acm.org/doi/10.1145/3712285.3759834) (**SC**) 2025.
 - 🔥 [Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis](https://dl.acm.org/doi/10.1145/3712285.3759840) (**SC**) 2025.
 - 🔥 [OVERT: Orchestrating Vector-Scalar Execution for Efficient SpMV on Modern CPUs](https://dl.acm.org/doi/10.1145/3754598.3754632) (**ICPP**) 2025.
