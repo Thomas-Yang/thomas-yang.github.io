@@ -30,7 +30,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 
 # 🔥 News
 - 🔥 **November 2025:** One paper (PULSE) is accepted to **ASPLOS**. Congratulations to Yiqing Wang.
-- 🔥 **November 2025:** Four papers (ElasGNN, Drawloom, APERTURE and SOFT) are accepted to **PPoPP**. Congratulations to Siqi Wang, Yiqing Wang, Kaige Zhang and Qingxiao Sun.
+- 🔥 **November 2025:** Three papers (ElasGNN, Drawloom and APERTURE) are accepted to **PPoPP**. Congratulations to Siqi Wang, Yiqing Wang and Kaige Zhang.
 - 🔥 **June 2025:** Two papers (Smurfs and ZeroSpec) are accepted to **SC**. Congratulations to Siqi Wang and Shaokang Du.
 - 🔥 **June 2025:** Two papers (ESC and OVERT) are accepted to **ICPP**. Congratulations to Kelun Lei and Xuezhu Wang.
 - 🔥 **April 2025:** One paper (STAD) is accepted to **TPDS**. Congratulations to Zhibo Xuan.
