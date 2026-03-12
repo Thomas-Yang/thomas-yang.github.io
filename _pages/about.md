@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **March 2026:** One paper (SPADE) is accepted to **DAC**. Congratulations to Shanghao Liu.
 - 🔥 **November 2025:** One paper (PULSE) is accepted to **ASPLOS**. Congratulations to Yiqing Wang.
 - 🔥 **November 2025:** Three papers (ElasGNN, Drawloom and APERTURE) are accepted to **PPoPP**. Congratulations to Siqi Wang, Yiqing Wang and Kaige Zhang.
 - 🔥 **June 2025:** Two papers (Smurfs and ZeroSpec) are accepted to **SC**. Congratulations to Siqi Wang and Shaokang Du.
@@ -81,6 +82,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 📝 Selected Publications
+- 🔥 SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference (**DAC**) 2026.
 - 🔥 Efficient Temporal Graph Network Training via Unified Redundancy Elimination (**ASPLOS**) 2026.
 - 🔥 [ElasGNN: An Elastic Training Framework for Distributed GNN Training](https://dl.acm.org/doi/10.1145/3774934.3786440) (**PPoPP**) 2026.
 - 🔥 [Exploiting Efficient Mapping and Pipelined Execution for Accelerating SpMV on Tensor Cores](https://dl.acm.org/doi/10.1145/3774934.3786441) (**PPoPP**) 2026.
