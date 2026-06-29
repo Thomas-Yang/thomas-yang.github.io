@@ -46,6 +46,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - 🔥 **June 2024:** Two papers (PRoof and Jigsaw) are accepted to **ICPP**. Congratulations to Siyu Wu and Kaige Zhang.
 - 🔥 **March 2024:** One paper (AtRec) is accepted to **TPDS**. Congratulations to Siqi Wang and Tianyu Feng.
 - 🔥 **March 2024:** Our paper Tetris is selected as the best paper candidate (three papers in total) in **PPoPP** 2024. Congratulations to Xiaoyan Liu.
+
+<!--
 - 🔥 **November 2023:** One paper (Tetris) is accepted to **PPoPP** (best paper candidate). Congratulations to Xiaoyan Liu.
 - 🔥 **October 2023:** One paper (GSTuner) is accepted to **TPDS**. Congratulations to Qingxiao Sun.
 - 🔥 **June 2023:** Two papers (EasyScale and TrivialSpy) are accepted to **SC**. Congratulations to Mingzhen Li and Xin You.
@@ -53,8 +55,6 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - 🔥 **May 2023:** One TC paper is selected as IEEE Computer's **"Spotlight on Transactions"**. Congratulations to Qingxiao Sun.
 - 🔥 **April 2023:** One paper (BiRFIA) is accepted to **ICS**. Congratulations to Kelun Lei.
 - 🔥 **March 2023:** One paper (swLego) is accepted to **SCIS**. Congratulations to Mingzhen Li.
-
-<!--
 - 🔥 **December 2022:** One paper (Mimose) is accepted to **IPDPS'23**. Congratulations to Jianjin Liao and Mingzhen Li.
 - 🔥 **December 2022:** Invited to give a talk at High Performance Sparse Matrix Computing Architecture, Algorithm and Application Symposium of CCF HPCChina on December 15th.
 - 🔥 **December 2022:** Invited to give a talk at High Performance Computer Programming Model and Optimization Symposium of CCF HPCChina on December 15th.
@@ -107,21 +107,21 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - 🔥 [Jigsaw: Accelerating SpMM with Vector Sparsity on Sparse Tensor Core](https://dl.acm.org/doi/10.1145/3673038.3673108) (**ICPP**) 2024.
 - 🔥 [AtRec: Accelerating Recommendation Model Training on CPUs](https://www.computer.org/csdl/journal/td/2024/06/10478579/1VBAwSoxk88) (**TPDS**) 2024.
 - 🔥 [Tetris: Accelerating Sparse Convolution by Exploiting Memory  Reuse on GPU](https://dl.acm.org/doi/10.1145/3627535.3638471) (**PPoPP**, best paper candidate) 2024.
-- 🔥 [Adaptive Auto-tuning Framework for Global Exploration of Stencil Optimization on GPUs](https://ieeexplore.ieee.org/document/10287597) (**TPDS**) 2023.
-- 🔥 [EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs](https://dl.acm.org/doi/10.1145/3581784.3607054) (**SC**) 2023.
-- 🔥 [TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling](https://dl.acm.org/doi/10.1145/3581784.3607052) (**SC**) 2023.
-- 🔥 [Exploiting Subgraph Similarities for Efficient Auto-tuning of Tensor Programs](https://dl.acm.org/doi/10.1145/3605573.3605596) (**ICPP**) 2023.
-- 🔥 [BiRFIA: Selective Binary Rewriting for Function Interception on ARM](https://dl.acm.org/doi/10.1145/3577193.3593701) (**ICS**) 2023.
-- 🔥 [Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU](https://ieeexplore.ieee.org/document/10177427) (**IPDPS**) 2023.
-- 🔥 [VClinic: A Portable and Efficient Framework for Fine-grained Value Profilers](https://dl.acm.org/doi/10.1145/3575693.3576934) (**ASPLOS**) 2023.
-- 🔥 [Building a Domain-Specific Compiler for Emerging Processors with a Reusable Approach](https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3727-6) (**SCIS**) 2023.
-- 🔥 [Towards Optimized Tensor Code Generation for Deep Learning on Sunway Many-Core Processor](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-022-2440-7) (**FCS**) 2022.
-- 🔥 [CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs](https://dl.acm.org/doi/10.5555/3571885.3571936) (**SC**) 2022.
-- 🔥 [Vectorizing SpMV by Exploiting Dynamic Regular Patterns](https://dl.acm.org/doi/10.1145/3545008.3545042) (**ICPP**) 2022.
-- 🔥 [NNLQP: A Multi-Platform Neural Network Latency Query and Prediction System with An Evolving Database](https://dl.acm.org/doi/10.1145/3545008.3545051) (**ICPP**) 2022.
-- 🔥 [Toward accelerated stencil computation by adapting tensor core unit on GPU](https://dl.acm.org/doi/abs/10.1145/3524059.3532392) (**ICS**) 2022.
-- 🔥 [StencilMART: Predicting Optimization Selection for Stencil Computations across GPUs](https://ieeexplore.ieee.org/document/9820650) (**IPDPS**) 2022.
-- 🔥 [PowerSpector: Towards Energy Efficiency with Calling-Context-Aware Profiling](https://ieeexplore.ieee.org/document/9820673) (**IPDPS**) 2022.
+- [Adaptive Auto-tuning Framework for Global Exploration of Stencil Optimization on GPUs](https://ieeexplore.ieee.org/document/10287597) (**TPDS**) 2023.
+- [EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs](https://dl.acm.org/doi/10.1145/3581784.3607054) (**SC**) 2023.
+- [TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling](https://dl.acm.org/doi/10.1145/3581784.3607052) (**SC**) 2023.
+- [Exploiting Subgraph Similarities for Efficient Auto-tuning of Tensor Programs](https://dl.acm.org/doi/10.1145/3605573.3605596) (**ICPP**) 2023.
+- [BiRFIA: Selective Binary Rewriting for Function Interception on ARM](https://dl.acm.org/doi/10.1145/3577193.3593701) (**ICS**) 2023.
+- [Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU](https://ieeexplore.ieee.org/document/10177427) (**IPDPS**) 2023.
+- [VClinic: A Portable and Efficient Framework for Fine-grained Value Profilers](https://dl.acm.org/doi/10.1145/3575693.3576934) (**ASPLOS**) 2023.
+- [Building a Domain-Specific Compiler for Emerging Processors with a Reusable Approach](https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3727-6) (**SCIS**) 2023.
+- [Towards Optimized Tensor Code Generation for Deep Learning on Sunway Many-Core Processor](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-022-2440-7) (**FCS**) 2022.
+- [CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs](https://dl.acm.org/doi/10.5555/3571885.3571936) (**SC**) 2022.
+- [Vectorizing SpMV by Exploiting Dynamic Regular Patterns](https://dl.acm.org/doi/10.1145/3545008.3545042) (**ICPP**) 2022.
+- [NNLQP: A Multi-Platform Neural Network Latency Query and Prediction System with An Evolving Database](https://dl.acm.org/doi/10.1145/3545008.3545051) (**ICPP**) 2022.
+- [Toward accelerated stencil computation by adapting tensor core unit on GPU](https://dl.acm.org/doi/abs/10.1145/3524059.3532392) (**ICS**) 2022.
+- [StencilMART: Predicting Optimization Selection for Stencil Computations across GPUs](https://ieeexplore.ieee.org/document/9820650) (**IPDPS**) 2022.
+- [PowerSpector: Towards Energy Efficiency with Calling-Context-Aware Profiling](https://ieeexplore.ieee.org/document/9820673) (**IPDPS**) 2022.
 - [Input-Aware Sparse Tensor Storage Format Selection for Optimizing MTTKRP](https://ieeexplore.ieee.org/abstract/document/9540277) (**TC**) 2021.
 - [The Deep Learning Compiler: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9222299) (**TPDS**) 2021.
 - [Distributed Graph Processing System and Processing-in-memory Architecture with Precise Loop-carried Dependency Guarantee](https://dl.acm.org/doi/abs/10.1145/3453681) (**TOCS**) 2021.
