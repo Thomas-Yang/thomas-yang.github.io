@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **June 2026:** One paper (HeSTEAD) is accepted to **TPDS**. Congratulations to Zhibo Xuan.
 - 🔥 **May 2026:** One paper (MatrixFold) is accepted to **Euro-Par**. Congratulations to Shaokang Du.
 - 🔥 **March 2026:** One paper (SPADE) is accepted to **DAC**. Congratulations to Shanghao Liu.
 - 🔥 **November 2025:** One paper (PULSE) is accepted to **ASPLOS**. Congratulations to Yiqing Wang.
@@ -83,6 +84,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 📝 Selected Publications
+- 🔥 Spatio-Temporal Evolving Anomaly Detection Tool for Large-Scale Heterogeneous Programs Analysis (**TPDS**) 2026.
 - 🔥 MatrixFold: Unleashing Manycore CPUs with Outer-Product Units for Mixed-Precision AlphaFold Inference (**Euro-Par**) 2026.
 - 🔥 SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference (**DAC**) 2026.
 - 🔥 [Efficient Temporal Graph Network Training via Unified Redundancy Elimination](https://dl.acm.org/doi/10.1145/3779212.3790157) (**ASPLOS**) 2026.
