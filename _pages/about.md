@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **July 2026:** Three papers (Grape, Sparsene and SpG-Attention) are accepted to **SC**. Congratulations to Siqi Wang, Kaige Zhang and Kejie Ma.
 - 🔥 **June 2026:** One paper (HeSTEAD) is accepted to **TPDS**. Congratulations to Zhibo Xuan.
 - 🔥 **May 2026:** One paper (MatrixFold) is accepted to **Euro-Par**. Congratulations to Shaokang Du.
 - 🔥 **March 2026:** One paper (SPADE) is accepted to **DAC**. Congratulations to Shanghao Liu.
@@ -84,6 +85,9 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 📝 Selected Publications
+- 🔥 Efficient Serving for Agentic LLM Workflows via Micro-Task-Level Parallelism (**SC**) 2026.
+- 🔥 Format-Driven Automatic Pipeline Construction and Load Balancing for SpMM on GPUs (**SC**) 2026.
+- 🔥 Towards High-Performance Sparse Graph Attention on Dense Tensor Core Units (**SC**) 2026.
 - 🔥 Spatio-Temporal Evolving Anomaly Detection Tool for Large-Scale Heterogeneous Programs Analysis (**TPDS**) 2026.
 - 🔥 MatrixFold: Unleashing Manycore CPUs with Outer-Product Units for Mixed-Precision AlphaFold Inference (**Euro-Par**) 2026.
 - 🔥 SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference (**DAC**) 2026.
