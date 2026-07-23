@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **July 2026:** Two papers (PipePerf and SparseFold) are accepted to **CLUSTER**. Congratulations to Zhibo Xuan and Yunzhong Ren.
 - 🔥 **July 2026:** Three papers (Grape, Sparsene and SpG-Attention) are accepted to **SC**. Congratulations to Siqi Wang, Kaige Zhang and Kejie Ma.
 - 🔥 **June 2026:** One paper (HeSTEAD) is accepted to **TPDS**. Congratulations to Zhibo Xuan.
 - 🔥 **May 2026:** One paper (MatrixFold) is accepted to **Euro-Par**. Congratulations to Shaokang Du.
@@ -85,6 +86,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 📝 Selected Publications
+- 🔥 SparseFold: Index-Based Block Sparse Attention for Training-Free AlphaFold 3 Acceleration (**CLUSTER**) 2026.
+- 🔥 Diagnosing Pipeline Inefficiencies in Large-Scale LLM Training on GPU Clusters (**CLUSTER**) 2026.
 - 🔥 Efficient Serving for Agentic LLM Workflows via Micro-Task-Level Parallelism (**SC**) 2026.
 - 🔥 Format-Driven Automatic Pipeline Construction and Load Balancing for SpMM on GPUs (**SC**) 2026.
 - 🔥 Towards High-Performance Sparse Graph Attention on Dense Tensor Core Units (**SC**) 2026.
