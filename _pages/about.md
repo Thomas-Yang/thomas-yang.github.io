@@ -92,8 +92,8 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 - 🔥 Format-Driven Automatic Pipeline Construction and Load Balancing for SpMM on GPUs (**SC**, **<font color="red">Best Paper Nominee</font>**) 2026.
 - 🔥 Towards High-Performance Sparse Graph Attention on Dense Tensor Core Units (**SC**) 2026.
 - 🔥 Spatio-Temporal Evolving Anomaly Detection Tool for Large-Scale Heterogeneous Programs Analysis (**TPDS**) 2026.
-- 🔥 MatrixFold: Unleashing Manycore CPUs with Outer-Product Units for Mixed-Precision AlphaFold Inference (**Euro-Par**) 2026.
-- 🔥 SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference (**DAC**) 2026.
+- 🔥 [MatrixFold: Unleashing Manycore CPUs with Outer-Product Units for Mixed-Precision AlphaFold Inference](https://link.springer.com/chapter/10.1007/978-3-032-35251-4_29) (**Euro-Par**) 2026.
+- 🔥 [SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference](https://63dac.conference-program.com/presentation/?id=RESEARCH680&sess=sess145) (**DAC**) 2026.
 - 🔥 [Efficient Temporal Graph Network Training via Unified Redundancy Elimination](https://dl.acm.org/doi/10.1145/3779212.3790157) (**ASPLOS**) 2026.
 - 🔥 [ElasGNN: An Elastic Training Framework for Distributed GNN Training](https://dl.acm.org/doi/10.1145/3774934.3786440) (**PPoPP**) 2026.
 - 🔥 [Exploiting Efficient Mapping and Pipelined Execution for Accelerating SpMV on Tensor Cores](https://dl.acm.org/doi/10.1145/3774934.3786441) (**PPoPP**) 2026.
