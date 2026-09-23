@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **September 2026:** One paper (ASPA) is accepted to **EuroSys**. Congratulations to Xin You and Zhibo Xuan.
 - 🔥 **July 2026:** Two papers (PipePerf and SparseFold) are accepted to **CLUSTER**. Congratulations to Zhibo Xuan and Yunzhong Ren.
 - 🔥 **July 2026:** Three papers (Grape, Sparsene and SpG-Attention) are accepted to **SC**. Congratulations to Siqi Wang, Kaige Zhang and Kejie Ma.
 - 🔥 **June 2026:** One paper (HeSTEAD) is accepted to **TPDS**. Congratulations to Zhibo Xuan.
@@ -86,12 +87,13 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 📝 Selected Publications
+- 🔥 ASPA: Auto-parallelizing Performance Trace Analysis with Trait-driven Compilation (**EuroSys**) 2026.
 - 🔥 SparseFold: Index-Based Block Sparse Attention for Training-Free AlphaFold 3 Acceleration (**CLUSTER**) 2026.
 - 🔥 Diagnosing Pipeline Inefficiencies in Large-Scale LLM Training on GPU Clusters (**CLUSTER**) 2026.
 - 🔥 Efficient Serving for Agentic LLM Workflows via Micro-Task-Level Parallelism (**SC**) 2026.
 - 🔥 Format-Driven Automatic Pipeline Construction and Load Balancing for SpMM on GPUs (**SC**, **<font color="red">Best Paper Nominee</font>**) 2026.
 - 🔥 Towards High-Performance Sparse Graph Attention on Dense Tensor Core Units (**SC**) 2026.
-- 🔥 Spatio-Temporal Evolving Anomaly Detection Tool for Large-Scale Heterogeneous Programs Analysis (**TPDS**) 2026.
+- 🔥 [Spatio-Temporal Evolving Anomaly Detection Tool for Large-Scale Heterogeneous Programs Analysis](https://www.computer.org/csdl/journal/td/2026/10/11602644/2hZ83Uo38ju) (**TPDS**) 2026.
 - 🔥 [MatrixFold: Unleashing Manycore CPUs with Outer-Product Units for Mixed-Precision AlphaFold Inference](https://link.springer.com/chapter/10.1007/978-3-032-35251-4_29) (**Euro-Par**) 2026.
 - 🔥 [SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference](https://63dac.conference-program.com/presentation/?id=RESEARCH680&sess=sess145) (**DAC**) 2026.
 - 🔥 [Efficient Temporal Graph Network Training via Unified Redundancy Elimination](https://dl.acm.org/doi/10.1145/3779212.3790157) (**ASPLOS**) 2026.
