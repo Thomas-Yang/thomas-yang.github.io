@@ -89,7 +89,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 # 📝 Selected Publications
 - 🔥 ASPA: Auto-parallelizing Performance Trace Analysis with Trait-driven Compilation (**EuroSys**) 2026.
 - 🔥 SparseFold: Index-Based Block Sparse Attention for Training-Free AlphaFold 3 Acceleration (**CLUSTER**) 2026.
-- 🔥 Diagnosing Pipeline Inefficiencies in Large-Scale LLM Training on GPU Clusters (**CLUSTER**) 2026.
+- 🔥 [Diagnosing Pipeline Inefficiencies in Large-Scale LLM Training on GPU Clusters](https://ieeexplore.ieee.org/abstract/document/11728366) (**CLUSTER**) 2026.
 - 🔥 Efficient Serving for Agentic LLM Workflows via Micro-Task-Level Parallelism (**SC**) 2026.
 - 🔥 Format-Driven Automatic Pipeline Construction and Load Balancing for SpMM on GPUs (**SC**, **<font color="red">Best Paper Nominee</font>**) 2026.
 - 🔥 Towards High-Performance Sparse Graph Attention on Dense Tensor Core Units (**SC**) 2026.
