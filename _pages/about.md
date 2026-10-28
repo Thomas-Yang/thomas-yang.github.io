@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **October 2026:** One paper (TIDE) is accepted to **PPoPP**. Congratulations to Yiqing Wang.
 - 🔥 **September 2026:** One paper (ASPA) is accepted to **EuroSys**. Congratulations to Xin You and Zhibo Xuan.
 - 🔥 **July 2026:** Two papers (PipePerf and SparseFold) are accepted to **CLUSTER**. Congratulations to Zhibo Xuan and Yunzhong Ren.
 - 🔥 **July 2026:** Three papers (Grape, Sparsene and SpG-Attention) are accepted to **SC**. Congratulations to Siqi Wang, Kaige Zhang and Kejie Ma.
@@ -87,6 +88,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 📝 Selected Publications
+- 🔥 Exploiting Temporal Heterogeneity in Distributed Temporal Graph Network Training (**PPoPP**) 2027.
 - 🔥 ASPA: Auto-parallelizing Performance Trace Analysis with Trait-driven Compilation (**EuroSys**) 2026.
 - 🔥 SparseFold: Index-Based Block Sparse Attention for Training-Free AlphaFold 3 Acceleration (**CLUSTER**) 2026.
 - 🔥 [Diagnosing Pipeline Inefficiencies in Large-Scale LLM Training on GPU Clusters](https://ieeexplore.ieee.org/abstract/document/11728366) (**CLUSTER**) 2026.
