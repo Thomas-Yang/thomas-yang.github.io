@@ -29,6 +29,7 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 🔥 News
+- 🔥 **November 2026:** One paper (CINST) is accepted to **CGO**. Congratulations to Kelun Lei and Shaokang Du.
 - 🔥 **October 2026:** One paper (TIDE) is accepted to **PPoPP**. Congratulations to Yiqing Wang.
 - 🔥 **September 2026:** One paper (ASPA) is accepted to **EuroSys**. Congratulations to Xin You and Zhibo Xuan.
 - 🔥 **July 2026:** Two papers (PipePerf and SparseFold) are accepted to **CLUSTER**. Congratulations to Zhibo Xuan and Yunzhong Ren.
@@ -88,9 +89,10 @@ I served as the committee member of CCF Doctoral Dissertation Incentive Program,
 -->
 
 # 📝 Selected Publications
+- 🔥 Exploring Performance Inefficiencies via Container Instrumentation for Java (**CGO**) 2027.
 - 🔥 Exploiting Temporal Heterogeneity in Distributed Temporal Graph Network Training (**PPoPP**) 2027.
 - 🔥 ASPA: Auto-parallelizing Performance Trace Analysis with Trait-driven Compilation (**EuroSys**) 2026.
-- 🔥 SparseFold: Index-Based Block Sparse Attention for Training-Free AlphaFold 3 Acceleration (**CLUSTER**) 2026.
+- 🔥 [SparseFold: Index-Based Block Sparse Attention for Training-Free AlphaFold 3 Acceleration](https://www.computer.org/csdl/proceedings-article/cluster/2026/309300a425/2kI8RW3aVOw) (**CLUSTER**) 2026.
 - 🔥 [Diagnosing Pipeline Inefficiencies in Large-Scale LLM Training on GPU Clusters](https://ieeexplore.ieee.org/abstract/document/11728366) (**CLUSTER**) 2026.
 - 🔥 Efficient Serving for Agentic LLM Workflows via Micro-Task-Level Parallelism (**SC**) 2026.
 - 🔥 Format-Driven Automatic Pipeline Construction and Load Balancing for SpMM on GPUs (**SC**, **<font color="red">Best Paper Nominee</font>**) 2026.
